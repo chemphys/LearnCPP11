@@ -15,3 +15,4 @@ Introduction to C++ through examples. this lesson shows:
 - Compilation
 - Variable types and assignment
 - Input/Output
+- Good coding practices and variable name convention
