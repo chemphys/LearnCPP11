@@ -1,5 +1,5 @@
 # LearnCPP
-Last updated 05/14/2018 by @chemphys
+Last updated 05/16/2018 by @chemphys
 Email: mrierari@ucsd.edu
 
 ## Requirements
@@ -34,10 +34,14 @@ Introduction to C++ through examples. This lesson shows:
 - Good coding practices and variable name convention
 
 ### Lesson 2
-Branching your code
+Branching your code. This lesson shows:
 - If - Else branching
 - If - Else If - Else branching
 - Logical, relational and equality operators
 - Precedence rules
 - Switch branching
+- Conditional expressions
+- Float Comparison
 
+### Lesson 3
+Loops. This lesson shows:
