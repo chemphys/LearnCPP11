@@ -45,3 +45,7 @@ Branching your code. This lesson shows:
 
 ### Lesson 3
 Loops. This lesson shows:
+- While loops
+- For loops
+- Nested loops
+- Break and Continue
