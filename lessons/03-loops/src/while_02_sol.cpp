@@ -9,6 +9,7 @@ int main(int argc, char** argv) {
   }
 
   int a = atoi(argv[1]); 
+  int b = a;
   int count = 0;
   
   while (a % 2 == 0) {
@@ -16,7 +17,7 @@ int main(int argc, char** argv) {
     a = a / 2;
   }
 
-  std::cout << "The number " << a << " can be divided " << count
+  std::cout << "The number " << b << " can be divided " << count
             << " times by 2\n";
 
   return 0;
