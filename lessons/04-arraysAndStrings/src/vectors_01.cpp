@@ -66,4 +66,6 @@ int main() {
     std::cout << "a[" << i << "] = " << a[i] << std::endl;
   }
 
+  return 0;
+
 }
