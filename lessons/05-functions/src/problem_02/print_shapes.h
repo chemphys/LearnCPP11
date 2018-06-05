@@ -1,0 +1,2 @@
+void PrintTriangle();
+void PrintSquare();
