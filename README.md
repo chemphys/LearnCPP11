@@ -49,3 +49,39 @@ Loops. This lesson shows:
 - For loops
 - Nested loops
 - Break and Continue
+
+### Lesson 4
+Arrays and Strings. This lesson shows:
+- Simple arrays
+- Vectors
+- 2D and ND arrays
+- Char arrays
+- Strings
+
+### Lesson 5
+User defined functions and subroutines. This lesson shows:
+- Functions and subroutines
+- Unit testing
+- Pass by reference
+- Local and global variables
+- Function definition and declaration
+- Function overloading
+- Function with defaults
+- Header files and modular compilation
+
+### Lesson 6
+Objects. This lesson shows:
+- Definition of a class
+- Constructors
+- Destructors
+- Operator overloading
+
+### Lesson 7
+Pointers. This lesson shows:
+- Pointer declaration and definition
+- Null Pointer
+- Operators new and delete
+- Memory regions
+- Access (->) operator
+- Valgrind
+- Allocation and deletion of arrays
