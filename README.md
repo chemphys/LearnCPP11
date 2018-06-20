@@ -85,3 +85,11 @@ Pointers. This lesson shows:
 - Access (->) operator
 - Valgrind
 - Allocation and deletion of arrays
+
+### Lesson 8
+Streams. This lesson shows:
+- Input and output streams
+- Formatting the output
+- String streams
+- File streams
+
